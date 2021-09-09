@@ -75,9 +75,9 @@ namespace ThugMusicPlayerApp
             // 
             this.Songs.FormattingEnabled = true;
             this.Songs.ItemHeight = 25;
-            this.Songs.Location = new System.Drawing.Point(573, 105);
+            this.Songs.Location = new System.Drawing.Point(571, 55);
             this.Songs.Name = "Songs";
-            this.Songs.Size = new System.Drawing.Size(167, 254);
+            this.Songs.Size = new System.Drawing.Size(193, 279);
             this.Songs.TabIndex = 2;
             // 
             // button1
@@ -88,7 +88,7 @@ namespace ThugMusicPlayerApp
             this.button1.ForeColor = System.Drawing.Color.MediumPurple;
             this.button1.Location = new System.Drawing.Point(573, 288);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(167, 71);
+            this.button1.Size = new System.Drawing.Size(193, 110);
             this.button1.TabIndex = 3;
             this.button1.Text = "Select Songs";
             this.button1.UseVisualStyleBackColor = false;

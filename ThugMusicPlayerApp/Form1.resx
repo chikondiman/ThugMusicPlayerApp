@@ -60,14 +60,14 @@
   <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAFlSURBVEhL7dbLLgRBGIbhuQkLx1hasGKHC5AgrsPxWuwIsbC0d7gT3ABh57BDeN9EJxX5q7um
-        W4zFfMmTdMpU1XSp+mt6w/zHTGEHV7jB6zefbdvGJH4t4zjEOz4bfOAM0+iUDbwgmqTOM9bRKnvwDaKB
-        S9h3F33FN+0yacUxit98Am2WN8dlH0NjThAN0MURauORye3eRSzgIWmr2DaPpaQt5ZiuZDae06ijHNjM
-        Ip3cZ9uMXyztk9pCNpeIOimdoJo8aov66hzZ3CLqVPk5UemkssJlU7KbHzGHKjO4R/TZlGNn03biO0Sf
-        TT0hm4Et9cA2l1db1Eldj9MmsvE+zRUQi0NdAfFvy0lb6g21BcQcI+rcxQEa48VvYY8GaMPdPIqirKDk
-        F0cTr8U19BUv8a4/BKz9reIl3mbZXd5VdMoI9uHOjCZJ+ZanKP6flsTj4NV2gWtYXuWzxcFz2nhkhvnj
-        9Hpf2mGQzguNwwsAAAAASUVORK5CYII=
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAWVJREFUSEvt
+        1ssuBEEYhuG5CQvHWFqwYocLkCCuw/Fa7AixsLR3uBPcAGHnsEN430QnFfmru6ZbjMV8yZN0ylTVdKn6
+        a3rD/MdMYQdXuMHrN59t28Ykfi3jOMQ7Pht84AzT6JQNvCCapM4z1tEqe/ANooFL2HcXfcU37TJpxTGK
+        33wCbZY3x2UfQ2NOEA3QxRFq45HJ7d5FLOAhaavYNo+lpC3lmK5kNp7TqKMc2Mwindxn24xfLO2T2kI2
+        l4g6KZ2gmjxqi/rqHNncIupU+TlR6aSywmVTspsfMYcqM7hH9NmUY2fTduI7RJ9NPSGbgS31wDaXV1vU
+        SV2P0yay8T7NFRCLQ10B8W/LSVvqDbUFxBwj6tzFARrjxW9hjwZow908iqKsoOQXRxOvxTX0FS/xrj8E
+        rP2t4iXeZtld3lV0ygj24c6MJkn5lqco/p+WxOPg1XaBa1he5bPFwXPaeGSG+eP0el/aYZDOC43DCwAA
+        AABJRU5ErkJggg==
 </value>
   </data>
 </root>
