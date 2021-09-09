@@ -1,7 +1,7 @@
 ﻿
 namespace ThugMusicPlayerApp
 {
-    partial class THUGmusicPlayer
+    partial class JayPlay
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,22 +29,33 @@ namespace ThugMusicPlayerApp
         /// </summary>
         private void InitializeComponent()
         {
+            this.panel1 = new System.Windows.Forms.Panel();
             this.SuspendLayout();
             // 
-            // THUGmusicPlayer
+            // panel1
+            // 
+            this.panel1.Location = new System.Drawing.Point(186, 100);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(300, 150);
+            this.panel1.TabIndex = 0;
+            // 
+            // JayPlay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Indigo;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "THUGmusicPlayer";
-            this.Text = "Form1";
+            this.Name = "JayPlay";
+            this.Text = "JayPlay";
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Panel panel1;
     }
 }
 
