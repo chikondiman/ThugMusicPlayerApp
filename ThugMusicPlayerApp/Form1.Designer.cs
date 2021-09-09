@@ -33,6 +33,8 @@ namespace ThugMusicPlayerApp
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Songs = new System.Windows.Forms.ListBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -69,12 +71,34 @@ namespace ThugMusicPlayerApp
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
+            // Songs
+            // 
+            this.Songs.FormattingEnabled = true;
+            this.Songs.ItemHeight = 25;
+            this.Songs.Location = new System.Drawing.Point(573, 105);
+            this.Songs.Name = "Songs";
+            this.Songs.Size = new System.Drawing.Size(167, 254);
+            this.Songs.TabIndex = 2;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.InfoText;
+            this.button1.ForeColor = System.Drawing.Color.Indigo;
+            this.button1.Location = new System.Drawing.Point(573, 288);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(167, 71);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "Select Songs";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
             // JayPlay
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Indigo;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.Songs);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -92,6 +116,8 @@ namespace ThugMusicPlayerApp
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.ListBox Songs;
+        private System.Windows.Forms.Button button1;
     }
 }
 
