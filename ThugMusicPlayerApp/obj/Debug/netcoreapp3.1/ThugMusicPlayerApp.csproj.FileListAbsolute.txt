@@ -1,0 +1,16 @@
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\bin\Debug\netcoreapp3.1\ThugMusicPlayerApp.exe
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\bin\Debug\netcoreapp3.1\ThugMusicPlayerApp.deps.json
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\bin\Debug\netcoreapp3.1\ThugMusicPlayerApp.runtimeconfig.json
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\bin\Debug\netcoreapp3.1\ThugMusicPlayerApp.runtimeconfig.dev.json
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\bin\Debug\netcoreapp3.1\ThugMusicPlayerApp.dll
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\bin\Debug\netcoreapp3.1\ThugMusicPlayerApp.pdb
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.csprojAssemblyReference.cache
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.JayPlay.resources
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.Properties.Resources.resources
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.AssemblyInfoInputs.cache
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.AssemblyInfo.cs
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.csproj.CoreCompileInputs.cache
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.dll
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.pdb
+C:\Users\New HP\CODE_KONDI\ThugMusicPlayerApp\ThugMusicPlayerApp\obj\Debug\netcoreapp3.1\ThugMusicPlayerApp.genruntimeconfig.cache

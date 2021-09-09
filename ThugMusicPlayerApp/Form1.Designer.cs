@@ -86,7 +86,7 @@ namespace ThugMusicPlayerApp
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.Font = new System.Drawing.Font("Segoe UI Light", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.Color.MediumPurple;
-            this.button1.Location = new System.Drawing.Point(573, 288);
+            this.button1.Location = new System.Drawing.Point(571, 328);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(193, 110);
             this.button1.TabIndex = 3;
