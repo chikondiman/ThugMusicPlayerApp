@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6i26W4prxT9gVdkoVYMEELVelL6UXVpunz9SgTvv7gQd6ZMK7O2ova4dtAB3rtaStDoaFUVZCOhAj/UGw9HRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\New HP\\CODE_KONDI\\ThugMusicPlayerApp\\ThugMusicPlayerApp\\ThugMusicPlayerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\New HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

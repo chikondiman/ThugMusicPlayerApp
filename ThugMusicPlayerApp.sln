@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThugMusicPlayerApp", "ThugMusicPlayerApp\ThugMusicPlayerApp.csproj", "{48CFDEEF-72AC-43F3-8D9A-5AB8C4BAC973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CFDEEF-72AC-43F3-8D9A-5AB8C4BAC973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CFDEEF-72AC-43F3-8D9A-5AB8C4BAC973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CFDEEF-72AC-43F3-8D9A-5AB8C4BAC973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CFDEEF-72AC-43F3-8D9A-5AB8C4BAC973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50CB53C8-FB1F-4B17-838F-99CCF993CCE9}
+	EndGlobalSection
+EndGlobal
