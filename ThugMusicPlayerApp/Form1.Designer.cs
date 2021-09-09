@@ -34,10 +34,12 @@ namespace ThugMusicPlayerApp
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.Color.DarkViolet;
             this.panel1.Location = new System.Drawing.Point(186, 100);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(300, 150);
             this.panel1.TabIndex = 0;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // JayPlay
             // 
