@@ -1,7 +1,7 @@
 ﻿
 namespace ThugMusicPlayerApp
 {
-    partial class Form1
+    partial class THUGmusicPlayer
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,10 +29,19 @@ namespace ThugMusicPlayerApp
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // THUGmusicPlayer
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Indigo;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "THUGmusicPlayer";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

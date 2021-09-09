@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ThugMusicPlayerApp
 {
-    public partial class Form1 : Form
+    public partial class THUGmusicPlayer : Form
     {
-        public Form1()
+        public THUGmusicPlayer()
         {
             InitializeComponent();
         }
