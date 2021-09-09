@@ -30,16 +30,31 @@ namespace ThugMusicPlayerApp
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.DarkViolet;
-            this.panel1.Location = new System.Drawing.Point(186, 100);
+            this.panel1.BackColor = System.Drawing.Color.Black;
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(300, 150);
+            this.panel1.Size = new System.Drawing.Size(800, 49);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Ink Free", 18F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.Indigo;
+            this.label1.Location = new System.Drawing.Point(12, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(130, 45);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "jayPlay";
             // 
             // JayPlay
             // 
@@ -51,6 +66,8 @@ namespace ThugMusicPlayerApp
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "JayPlay";
             this.Text = "JayPlay";
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -58,6 +75,7 @@ namespace ThugMusicPlayerApp
         #endregion
 
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label1;
     }
 }
 
